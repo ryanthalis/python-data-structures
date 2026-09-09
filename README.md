@@ -6,7 +6,7 @@ with focused unit tests and complexity notes for each component.
 ## Project status
 
 - [x] Singly linked list
-- [ ] Dynamic array
+- [x] Dynamic array
 - [ ] Stack
 - [ ] Queue
 - [ ] Hash table
