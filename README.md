@@ -11,7 +11,7 @@ with focused unit tests and complexity notes for each component.
 - [ ] Queue
 - [ ] Hash table
 - [x] Binary heap
-- [ ] AVL tree
+- [x] AVL tree
 - [ ] Graph
 - [ ] Sorting and searching algorithms
 
