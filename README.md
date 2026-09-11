@@ -13,7 +13,7 @@ with focused unit tests and complexity notes for each component.
 - [x] Binary heap
 - [x] AVL tree
 - [ ] Graph
-- [ ] Sorting and searching algorithms
+- [x] Searching algorithms
 
 ## Running tests
 
